@@ -1,4 +1,4 @@
-package workclasses;
+package ua.com.alevel.workclasses;
 
 import java.io.BufferedReader;
 import java.io.IOException;

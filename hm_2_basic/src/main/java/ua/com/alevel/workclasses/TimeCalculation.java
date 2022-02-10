@@ -1,4 +1,4 @@
-package workclasses;
+package ua.com.alevel.workclasses;
 
 import org.apache.commons.lang3.BooleanUtils;
 import java.io.BufferedReader;

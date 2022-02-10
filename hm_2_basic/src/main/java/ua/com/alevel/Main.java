@@ -1,6 +1,8 @@
-import workclasses.StringDetection;
-import workclasses.SumOfNumbs;
-import workclasses.TimeCalculation;
+package ua.com.alevel;
+
+import ua.com.alevel.workclasses.StringDetection;
+import ua.com.alevel.workclasses.SumOfNumbs;
+import ua.com.alevel.workclasses.TimeCalculation;
 
 import java.io.IOException;
 

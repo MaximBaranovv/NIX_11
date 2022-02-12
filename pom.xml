@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>hm_1_compile</module>
-        <module>hw_2_basic</module>
+        <module>hm_1_compilation</module>
+        <module>hm_2_base_types</module>
     </modules>
 
     <properties>

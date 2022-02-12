@@ -39,5 +39,6 @@ public class TimeCalculation {
         System.out.print(chislo1+" ");
         System.out.print(chislo2);
         System.out.print(chislo3);
+        System.out.println();
     }
 }

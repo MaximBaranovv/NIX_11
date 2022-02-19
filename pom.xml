@@ -12,6 +12,7 @@
     <modules>
         <module>hm_1_compilation</module>
         <module>hm_2_base_types</module>
+        <module>hm_3_oop</module>
     </modules>
 
     <properties>

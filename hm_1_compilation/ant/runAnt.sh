@@ -1,6 +1,6 @@
 #! /bin/sh
 
-. ./setantenv.sh
+. ./setAntEnv.sh
 
 cd app
 

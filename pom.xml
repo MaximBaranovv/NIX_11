@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>hm_2_base_type</module>
         <module>hm_3_strings</module>
         <module>hm_4_oop</module>
         <module>module_1</module>

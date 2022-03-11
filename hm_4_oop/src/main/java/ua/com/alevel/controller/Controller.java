@@ -1,16 +1,13 @@
 package ua.com.alevel.controller;
 
 import org.apache.commons.lang3.EnumUtils;
-import ua.com.alevel.db.BikeDb;
 import ua.com.alevel.entity.Bike;
 import ua.com.alevel.entity.BikeType;
 import ua.com.alevel.service.BikeService;
 import ua.com.alevel.service.impl.BikeServiceImpl;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Locale;
 
 public class Controller {
     private static final BikeService bikeService = new BikeServiceImpl();
